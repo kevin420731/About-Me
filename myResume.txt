@@ -1,0 +1,26 @@
+Basic Contact Information:
+ Name: Kevin. Shen(formerly used Kai.Shen)
+ Date of Birth:2000-04-23
+ Email: kai.shen18@student.xjtlu.edu.cn
+ phoneNum: 18522364282
+Academic Performance:
+ 2018-2019 GPA 3.54/4 major GPA 3.66/4 67.41/100 rank 20%
+ 2019-2020 GPA3.5/4 major GPA 3.61/4 66.3/100 rank 50%
+ 2020-2021 GPA 3.49/4 major GPA 3.49/4 64.62/100 rank 35%-40%
+ TOEFL 101/120 
+Educational Background:
+  Bachelor of Science 2018-2022 Xian-JiaoTong Liverpool University Major: Information and Computing Science
+Research Experience
+  Jun,2021 to Sep,2021 Doing multimodal machine learning research with Prof. Erick.Purwanto and Prof. JianJun. Chen, mainly participated in reading research papers, implementing the machine learning model , finetuning, optimizing the existing model, making research poster.
+  Sep,2021 to present, Doing Final Year Project with Prof. Erick. Purwanto, focus on implementing an textual adversarial generation framework to avoid the mistake caused by the attacks for NLP tasks
+Working Experience:
+[Internship], March,2021 to Jun,2021 , doing internship as a web developer in Qian-Yan technology in Guangdong, China, responsible for upgrading and maintaining the official website and wechat-mini-programs for the company, the main framework used is vue(front end),springboot(back end)
+Awards:
+   Jun,2021, Secondary Provincial Awards in Lanqiao Programming and algorithm competition, rank top10%-top30% of all candidates
+Self Programming Projects
+1.Implementing a word learning software with word learning, word testing, word searching functions through co-working with a group by using Flutter full stack framework
+2.Implementing synchronous file sharing systems among multiple machines by python
+3.Implementing a wechat mini-program that are used for doing memos for students by myself(not deployed yet, still in the testing stage).
+
+
+
