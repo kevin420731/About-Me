@@ -1,0 +1,37 @@
+Basic Contact Information:
+   Name: Kai. Shen 
+   Email: 1304977834@qq.com
+Educational Background:
+  2018-09 to present : Xi’an Jiaotong- liverpool University,  Bachelor Degree, Major in Information and Computing Science
+Related Academic Performance:
+   2018-2019 freshman year GPA 3.56/4 in percentage 67.41/100  rank 15%-20%
+   2019-2020 second year  GPA3.53/4 in percentage 66.3/100, rank 50%
+   2020-2021 third year GPA 3.50/4 in percentage 64.62/100 rank 35%-45%
+   TOEFL test score: Reading 27 Listening 25 Speaking 23 Writing 26
+Research Experience:
+1.June, 2021 to Sep, 2021 
+    a).Research Title: Offensive Content Detection in Multimodal Publications. 
+   b ).Supervised by:  Dr. Erick. Purwanto and Dr. Jianjun.Chen
+   c).Mainly participated in: 
+    Making modification to add some connection layers in the pre-trained CLIP model and Implementing and Integrating the CLIP and pre-trained UNITER model to classify the hatefulness of new images and testing the classification accuracy of our model and finally deployed our work. 
+  d).Final Work Outputs: 
+      1).poster with same name as our project, includes the detail of our implementation and experimental results to demonstrate our improvement. 
+      2). Deployed website (using python Flask framework to help develop the website, and embed our model in the back-end to realize the hateful-meme classification task for the website).
+2. Sep,2021 to present:
+   a). Research title: Textual Adversarial Attack
+   b). Supervised by: Dr. Erick. Purwanto
+   c). Main Work:  Detecting and Analyzing the vulnerability of existing language models like BERT and GPT-2, Generate a Textual Adversarial Attack model to modify the original text and to disrupt the accuracy of classification of the text by human and machine learning language models.
+   d). Current Work: Exploring Related Papers and doing Improvement on existing Adversarial Attack Models such as GLARE and CLARE, some initial modifications have been made and the accuracy will be tested and modification will be upgraded and reinforced.
+Working Experience:
+  Internship:  from March, 2021 to June, 2021 , Work as a front-end web developer in Qian-Yan-Technology in Guangdong, China. Mainly responsible for the maintaining and upgrading of the official website and we-chat mini program of the company, using VUE framework and we-chat specified languages to work.
+Competition Awards:
+  Second provincial awards in Lanqiao  Cup Coding Competition, China . Ranking 10%-30% of all participants of Jiangsu, China.
+Programming Projects:
+1.Implementing a word learning software with word learning, word testing, word searching functions through co-working with a group by using Flutter full stack framework
+2.Implementing synchronous file sharing systems among multiple virtual machines by python
+3.Implementing a wechat mini-program that are used for doing memos for students by myself
+ 
+    
+  
+ 
+ 
