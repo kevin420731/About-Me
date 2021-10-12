@@ -1,3 +1,1 @@
-# hello-world
-for try
-tertet7dydfgvgvg
+This repository include some introductions ,such as Resume for myself.
